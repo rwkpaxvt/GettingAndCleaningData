@@ -97,3 +97,4 @@ write.table(final, file="run_analysis_output.txt", row.names = FALSE)
 
 #Read table back in to check on tidiness
 finalcheck = read.table("run_analysis_output.txt")
+
